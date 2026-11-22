@@ -1,0 +1,16 @@
+{
+  "dataset": "1wk_2005_2026",
+  "interval": "1wk",
+  "n": 1141,
+  "p": 30,
+  "alpha_cv": 0.09757506561850299,
+  "alpha_used": 0.09757506561850299,
+  "alpha_max": 0.8324790918321344,
+  "n_edges": 194,
+  "density": 0.4459770114942529,
+  "within_sector_frac": 0.24742268041237114,
+  "within_sector_frac_if_random": 0.11724137931034483,
+  "n_negative_partial_corr": 0,
+  "kkt_violation": 4.050392649057599e-08,
+  "max_abs_W_theta_minus_I": 4.254526038817239e-05
+}

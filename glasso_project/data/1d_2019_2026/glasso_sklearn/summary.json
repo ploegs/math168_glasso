@@ -1,0 +1,16 @@
+{
+  "dataset": "1d_2019_2026",
+  "interval": "1d",
+  "n": 1982,
+  "p": 30,
+  "alpha_cv": 0.024522742006426276,
+  "alpha_used": 0.024522742006426276,
+  "alpha_max": 0.873560859758422,
+  "n_edges": 221,
+  "density": 0.5080459770114942,
+  "within_sector_frac": 0.21266968325791855,
+  "within_sector_frac_if_random": 0.11724137931034483,
+  "n_negative_partial_corr": 34,
+  "kkt_violation": 5.631826714702637e-08,
+  "max_abs_W_theta_minus_I": 0.00032382177528478273
+}
